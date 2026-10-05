@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jvfp9DbrJ8A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Otaq rezervasiyası\\Otaq rezervasiyası\\Otaq rezervasiyası.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\Users\\User\\source\\repos\\Otaq rezervasiyası\\Otaq rezervasiyası\\obj\\project.nuget.cache : '0x00' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\User\\source\\repos\\Otaq rezervasiyası\\Otaq rezervasiyası\\Otaq rezervasiyası.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\User\\source\\repos\\Otaq rezervasiyası\\Otaq rezervasiyası\\Otaq rezervasiyası.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

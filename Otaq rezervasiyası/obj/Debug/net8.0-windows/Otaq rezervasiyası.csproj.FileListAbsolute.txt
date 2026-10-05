@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Otaq rezervasiyası\Otaq rezervasiyası\obj\Debug\net8.0-windows\Otaq_rezervasiyası.Form1.resources
+C:\Users\User\source\repos\Otaq rezervasiyası\Otaq rezervasiyası\obj\Debug\net8.0-windows\Otaq rezervasiyası.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Otaq rezervasiyası\Otaq rezervasiyası\obj\Debug\net8.0-windows\Otaq rezervasiyası.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Otaq rezervasiyası\Otaq rezervasiyası\obj\Debug\net8.0-windows\Otaq rezervasiyası.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Otaq rezervasiyası\Otaq rezervasiyası\obj\Debug\net8.0-windows\Otaq rezervasiyası.AssemblyInfo.cs
+C:\Users\User\source\repos\Otaq rezervasiyası\Otaq rezervasiyası\obj\Debug\net8.0-windows\Otaq rezervasiyası.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Otaq rezervasiyası\Otaq rezervasiyası\bin\Debug\net8.0-windows\Otaq rezervasiyası.exe
+C:\Users\User\source\repos\Otaq rezervasiyası\Otaq rezervasiyası\bin\Debug\net8.0-windows\Otaq rezervasiyası.deps.json
+C:\Users\User\source\repos\Otaq rezervasiyası\Otaq rezervasiyası\bin\Debug\net8.0-windows\Otaq rezervasiyası.runtimeconfig.json
+C:\Users\User\source\repos\Otaq rezervasiyası\Otaq rezervasiyası\bin\Debug\net8.0-windows\Otaq rezervasiyası.dll
+C:\Users\User\source\repos\Otaq rezervasiyası\Otaq rezervasiyası\bin\Debug\net8.0-windows\Otaq rezervasiyası.pdb
+C:\Users\User\source\repos\Otaq rezervasiyası\Otaq rezervasiyası\obj\Debug\net8.0-windows\Otaq rezervasiyası.dll
+C:\Users\User\source\repos\Otaq rezervasiyası\Otaq rezervasiyası\obj\Debug\net8.0-windows\refint\Otaq rezervasiyası.dll
+C:\Users\User\source\repos\Otaq rezervasiyası\Otaq rezervasiyası\obj\Debug\net8.0-windows\Otaq rezervasiyası.pdb
+C:\Users\User\source\repos\Otaq rezervasiyası\Otaq rezervasiyası\obj\Debug\net8.0-windows\Otaq rezervasiyası.genruntimeconfig.cache
+C:\Users\User\source\repos\Otaq rezervasiyası\Otaq rezervasiyası\obj\Debug\net8.0-windows\ref\Otaq rezervasiyası.dll
